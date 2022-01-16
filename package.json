@@ -2,5 +2,23 @@
   "dependencies": {
     "inquirer": "^8.2.0",
     "installer": "^0.0.1"
-  }
+  },
+  "name": "portfolio-generator",
+  "description": "",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chris-backes/portfolio-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chris-backes/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/chris-backes/portfolio-generator#readme"
 }
